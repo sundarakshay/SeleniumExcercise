@@ -4,6 +4,8 @@
   <test thread-count="8" name="Test">
   <classes>
   <class name = "com.testng.FirstProgramToOpenBrowser"/>
+  <class name = "com.testng.ForTest"/>
+  <class name = "com.testng.SecondProgramToSelect"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
